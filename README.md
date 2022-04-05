@@ -3,4 +3,4 @@ intro a github
 
 ### Hackwomewn in tech😊
 
-**backend Python le cambio algo**
+## estoy agregando archivos de los ejercicios que hago de Python
